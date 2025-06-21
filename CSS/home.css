@@ -1,0 +1,165 @@
+
+header{
+    background-color: white;
+    padding: 20px 10px 20px 10px;
+    
+}
+
+.header a:link{
+    color:rgb(92, 88, 88);
+    text-decoration: none;
+    margin-left: 50px;
+    text-shadow: 2px 3px 5px black;
+    font-size: 20px;
+}
+
+.bg2{
+    background-color: white;
+    padding: 20px 10px 20px 10px;
+}
+
+ .joh{
+    width: 300px;
+    height: 300px;
+    border-radius:50%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: -70px;
+    margin-left: 500px;
+}
+
+.profile{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 25px;
+    color: rgb(61, 56, 56);
+    font-style:inherit;
+
+}
+.sou{
+    text-align: center;
+    margin-top: -50px;
+    margin-left: 600px;
+    padding-left: 10px;
+}
+.form{
+    background-image: url(../image/section-bg.jpg);
+    background-size: cover;
+    background-color: rgba(50, 50, 90, 0.425);
+    text-align: center;
+    padding-bottom: 30px;
+    padding: 20px;
+    
+}
+span{
+    color: green
+}
+.Exp{
+    background-color: rgb(56, 56, 59);
+    text-align: center;
+}
+#container2{
+    background-color: rgb(74, 74, 95);
+    text-align: center;
+    overflow: hidden;
+    
+
+}
+ .let1,.let2 {
+    background-color:white;
+    padding: 30px 10px 30px 20px; 
+    border: 5px solid white;
+    margin-bottom: 30px;
+    border-radius: 7px;
+    justify-content: left;
+ } 
+ .let1{
+     float: left;
+     margin-left: 30px;
+     padding-right: 100px;
+    
+
+ }
+ .let2{
+     float: right;
+     margin-right: 30px;
+     padding-left: 90px;
+
+ }
+
+.download{
+    text-align: center;
+    background-image: url(../image/section-bg.jpg);
+    background-size: cover;
+    margin: 10px 20px 10px 20px;
+   background-color: rgba(12, 12, 110, 0.322);
+    font-style: oblique;
+    font-size: 20px;
+    margin-left: 20px;
+    padding:40px 20px;
+    
+}
+.download button{
+    background-color: green;
+    border-radius: 20px;
+    font-size:15px;
+}
+.port{
+    background-color: white;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+}
+h2{
+    text-align: none;
+}
+.act{
+    text-align: center;
+
+}
+
+.con{
+    background-color: white;
+    padding: 10px 20px 20px 10px;
+    text-align: center;
+    display: flex;
+    margin-bottom: 20px;
+}
+.for .id{
+    border-radius: 10px;
+    border: 20px line  green;
+    width: 600px;
+    flex-direction: row
+    
+}
+.for{
+    position: relative;
+    margin-left: 10px;
+}
+.for button{
+    background-color: green;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+.Exper{
+    background-image: url(../image/section-bg.jpg);
+    text-align: center;
+    background-color: rgba(28, 28, 124, 0.774);
+    background-size: cover;
+}
+.First{
+    text-align: center;
+    margin-left: 300px;
+    color: white;
+    padding: 10px 20px 50px 10px;
+    font-size: 20px;
+
+}
+
+
+
+
+
+
